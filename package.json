@@ -1,8 +1,8 @@
 {
-  "name": "blog.brosis.one",
+  "name": "brosis.one",
   "version": "1.0.0",
   "private": true,
-  "description": "blog.brosis.one",
+  "description": "brosis.one",
   "keywords": [
     "gatsby"
   ],
